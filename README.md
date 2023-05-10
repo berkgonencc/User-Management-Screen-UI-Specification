@@ -25,6 +25,6 @@ When the "New User" button is clicked, a dialog box opens with a form to enter t
 - Email (required, must be unique)
 - User Roles (required, select from predefined roles)
 - Enabled
--
+
 Upon clicking "Save User", the system validates the data:
 - If all data is valid, the new user is created, the dialog is closed, and the user list is updated.
