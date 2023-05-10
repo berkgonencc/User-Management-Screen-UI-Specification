@@ -1,5 +1,5 @@
 # User-Management-Screen-UI-Specification
-## Overview
+
 The User Management Screen is designed to allow administrators to manage users within the system. This includes viewing user details, adding new users, editing existing users, and deleting users.
 
 ## Initial Screen State
